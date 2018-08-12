@@ -1,0 +1,15 @@
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\Corte_Cajeros.exe.config
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\Corte_Cajeros.exe
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\Corte_Cajeros.pdb
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\MetroFramework.Design.dll
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\MetroFramework.dll
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.Numero_cincho.resources
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.WFrmPanel_Control.resources
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.Splahs_Login.resources
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.Properties.Resources.resources
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.csproj.GenerateResource.Cache
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.exe
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.pdb
+C:\Users\jazmi\Documents\Jazmin\Documentos Jazmin\7mo Cuatri\Estancias\Corte_Cajeros\Corte_Cajeros\obj\Debug\Corte_Cajeros.csprojResolveAssemblyReference.cache
