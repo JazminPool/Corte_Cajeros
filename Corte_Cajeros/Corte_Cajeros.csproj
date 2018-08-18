@@ -39,6 +39,7 @@
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
@@ -53,6 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BD.cs" />
+    <Compile Include="GestionDatos.cs" />
     <Compile Include="Numero_cincho.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +66,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes.cs" />
+    <Compile Include="WFrmCambioBoleto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFrmCambioBoleto.Designer.cs">
+      <DependentUpon>WFrmCambioBoleto.cs</DependentUpon>
     </Compile>
     <Compile Include="WFrmPanel_Control.cs">
       <SubType>Form</SubType>
@@ -81,6 +91,9 @@
     <Compile Include="Validacion.cs" />
     <EmbeddedResource Include="Numero_cincho.resx">
       <DependentUpon>Numero_cincho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFrmCambioBoleto.resx">
+      <DependentUpon>WFrmCambioBoleto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="WFrmPanel_Control.resx">
       <DependentUpon>WFrmPanel_Control.cs</DependentUpon>

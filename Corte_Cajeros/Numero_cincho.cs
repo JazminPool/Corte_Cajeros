@@ -43,5 +43,16 @@ namespace Corte_Cajeros
         }
         #endregion
 
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            int de = int.Parse(txfDe.Text.ToString());
+            int hasta = int.Parse(txfHasta.Text.ToString());
+
+            int resultado = 0;
+
+            resultado = de - hasta;
+
+            txfCincho.Text = resultado.ToString();
+        }
     }
 }

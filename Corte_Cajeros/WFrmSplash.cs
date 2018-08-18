@@ -28,9 +28,24 @@ namespace Corte_Cajeros
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            WFrmPanel_Control pc = new WFrmPanel_Control();
-            pc.Show();
+            if (!String.IsNullOrEmpty(txfUser.Text) && !String.IsNullOrEmpty(txfPassword.Text))
+            {
+                try {
+                    BD bd = new BD();
+
+                    Boolean resultado = bd.Login(txfUser.Text, txfPassword.Text);
+
+                    if (resultado) {
+                        this.Hide();
+                        WFrmPanel_Control pc = new WFrmPanel_Control();
+                        pc.Show();
+                    } else { MessageBox.Show("Datos mal"); }
+
+
+                } catch(Exception ex) { MessageBox.Show("Error" + ex); }
+            }
+            else { MessageBox.Show("INGRESA LOS DATOS, PLOX"); }
+           
         }
 
 

@@ -340,7 +340,6 @@
             this.txfBoletos_GUADA.Name = "txfBoletos_GUADA";
             this.txfBoletos_GUADA.Size = new System.Drawing.Size(280, 29);
             this.txfBoletos_GUADA.TabIndex = 17;
-            this.txfBoletos_GUADA.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txfBoletos_GUADA_KeyPress);
             // 
             // txfBoletos_perdidos
             // 
@@ -365,6 +364,7 @@
             this.btnGenerar.TabIndex = 28;
             this.btnGenerar.Text = "Generar Reporte";
             this.btnGenerar.UseVisualStyleBackColor = false;
+            this.btnGenerar.Click += new System.EventHandler(this.btnGenerar_Click);
             // 
             // btnCerrar_Sesion
             // 
@@ -376,7 +376,7 @@
             this.btnCerrar_Sesion.Name = "btnCerrar_Sesion";
             this.btnCerrar_Sesion.Size = new System.Drawing.Size(195, 39);
             this.btnCerrar_Sesion.TabIndex = 29;
-            this.btnCerrar_Sesion.Text = "Cerrar Sesión";
+            this.btnCerrar_Sesion.Text = "Sumar";
             this.btnCerrar_Sesion.UseVisualStyleBackColor = false;
             this.btnCerrar_Sesion.Click += new System.EventHandler(this.btnCerrar_Sesion_Click);
             // 
